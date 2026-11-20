@@ -103,6 +103,8 @@ This page provides deeper analysis of sales growth, geographical performance, an
 
 <img width="670" height="374" alt="Insight" src="https://github.com/user-attachments/assets/99cfce51-9c3e-4c8a-8b10-e8786ac065dc" />
 
+<img width="1339" height="749" alt="Screenshot 2026-11-20 124229" src="https://github.com/user-attachments/assets/f9b59f8a-15ab-484a-abde-36893fbe67d7" />
+
 ### Business Value
 
 Helps identify sales growth opportunities, compare regional profitability, evaluate sales channels, and understand monthly revenue fluctuations.
