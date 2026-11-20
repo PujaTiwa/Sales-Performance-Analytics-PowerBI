@@ -101,8 +101,6 @@ This page provides deeper analysis of sales growth, geographical performance, an
 
 ### 📷 Dashboard Preview
 
-<img width="670" height="374" alt="Insight" src="https://github.com/user-attachments/assets/99cfce51-9c3e-4c8a-8b10-e8786ac065dc" />
-
 <img width="1339" height="749" alt="Screenshot 2026-11-20 124229" src="https://github.com/user-attachments/assets/f9b59f8a-15ab-484a-abde-36893fbe67d7" />
 
 ### Business Value
@@ -129,7 +127,7 @@ This page focuses on product profitability, customer segments, discount analysis
 
 ### 📷 Dashboard Preview
 
-<img width="669" height="377" alt="P   C" src="https://github.com/user-attachments/assets/d7f25fa4-04a1-49ec-b05e-bfdde42377ac" />
+<img width="1338" height="754" alt="Screenshot 2026-11-20 124351" src="https://github.com/user-attachments/assets/7e0485c9-bf30-4133-88ef-a72522627bee" />
 
 ### Business Value
 
